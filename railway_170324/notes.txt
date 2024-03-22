@@ -1,1 +1,0 @@
-URL to search seats availability = https://travel.paytm.com/api/trains/v3/search?source=APR&destination=BPL&departureDate=20240321&client=web&show_empty=true
